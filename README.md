@@ -1,4 +1,4 @@
 # Lemfalink
 
 conecting Africa's Talent.
-A platform designed to connect Africantalent, professionals and opportunities.
+A platform designed to connect African talent, professionals and opportunities.
